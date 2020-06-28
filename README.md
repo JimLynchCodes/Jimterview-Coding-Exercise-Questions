@@ -28,7 +28,7 @@ There are basically three different ways these exercises could be worked through
     - At a computer (on a big screen in a meeting room)
     
     
-    -  At a computer (normal desk setup)
+    - At a computer (normal desk setup)
     
     
     - On a Whiteboard
@@ -39,7 +39,7 @@ There are basically three different ways these exercises could be worked through
     - With an pair programming webapp webapp repl.it or codepad.io
     
     
-    -  Using VSCode live share
+    - Using VSCode live share
     
     
     - Using regular video screenshare
