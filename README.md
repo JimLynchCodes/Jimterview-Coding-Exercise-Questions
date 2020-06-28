@@ -15,7 +15,7 @@ Personally, this is what I look for in an interviewee:
 
 - should be able to describe different unit tests for the exercise solution.
 
-- should be funny, friendly, polite, interesting, enthusiastic...
+- should be funny, friendly, polite, interesting, and/or enthusiastic...
 
 
 ## Different Methods of Administering the Exercises
